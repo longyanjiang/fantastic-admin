@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as l}from"./chunks/framework.14f187fd.js";const i=JSON.parse('{"title":"权限","description":"","frontmatter":{},"headers":[],"relativePath":"guide/permission.md"}'),p={name:"guide/permission.md"},o=l("",27),e=[o];function t(c,D,r,F,y,C){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

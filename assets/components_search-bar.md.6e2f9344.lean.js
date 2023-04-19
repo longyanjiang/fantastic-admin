@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as l,R as a}from"./chunks/framework.14f187fd.js";const y=JSON.parse('{"title":"SearchBar 搜索面板","description":"","frontmatter":{},"headers":[],"relativePath":"components/search-bar.md"}'),d={name:"components/search-bar.md"},r=a("",7),s=[r];function n(o,h,i,f,c,x){return e(),l("div",null,s)}const b=t(d,[["render",n]]);export{y as __pageData,b as default};

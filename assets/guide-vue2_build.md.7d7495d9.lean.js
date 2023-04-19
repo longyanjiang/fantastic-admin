@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as l}from"./chunks/framework.14f187fd.js";const u=JSON.parse('{"title":"构建","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/build.md"}'),e={name:"guide-vue2/build.md"},o=l("",4),p=[o];function t(c,r,i,d,y,C){return a(),n("div",null,p)}const A=s(e,[["render",t]]);export{u as __pageData,A as default};

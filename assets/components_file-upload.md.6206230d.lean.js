@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as l,R as d}from"./chunks/framework.14f187fd.js";const p=JSON.parse('{"title":"FileUpload 文件上传","description":"","frontmatter":{},"headers":[],"relativePath":"components/file-upload.md"}'),a={name:"components/file-upload.md"},n=d("",3),s=[n];function i(f,x,r,o,g,y){return e(),l("div",null,s)}const h=t(a,[["render",i]]);export{p as __pageData,h as default};

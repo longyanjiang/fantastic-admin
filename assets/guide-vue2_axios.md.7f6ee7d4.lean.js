@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as e}from"./chunks/framework.14f187fd.js";const A=JSON.parse('{"title":"和服务端交互","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/axios.md"}'),o={name:"guide-vue2/axios.md"},p=e("",26),l=[p];function c(t,r,i,D,y,d){return a(),n("div",null,l)}const C=s(o,[["render",c]]);export{A as __pageData,C as default};

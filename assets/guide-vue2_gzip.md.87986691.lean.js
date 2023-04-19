@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as i}from"./chunks/framework.14f187fd.js";const u=JSON.parse('{"title":"gzip 支持","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/gzip.md"}'),o={name:"guide-vue2/gzip.md"},p=i("",6),s=[p];function n(c,r,_,l,d,g){return a(),t("div",null,s)}const m=e(o,[["render",n]]);export{u as __pageData,m as default};

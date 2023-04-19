@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as l,R as a}from"./chunks/framework.14f187fd.js";const g=JSON.parse('{"title":"IconPicker 图标选择器","description":"","frontmatter":{},"headers":[],"relativePath":"components/icon-picker.md"}'),s={name:"components/icon-picker.md"},o=a("",3),n=[o];function r(i,d,c,p,h,_){return e(),l("div",null,n)}const x=t(s,[["render",r]]);export{g as __pageData,x as default};

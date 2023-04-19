@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as l,R as a}from"./chunks/framework.14f187fd.js";const c=JSON.parse('{"title":"PageMain 内容块","description":"","frontmatter":{},"headers":[],"relativePath":"components/page-main.md"}'),n={name:"components/page-main.md"},d=a("",5),s=[d];function i(r,o,h,g,f,x){return e(),l("div",null,s)}const _=t(n,[["render",i]]);export{c as __pageData,_ as default};

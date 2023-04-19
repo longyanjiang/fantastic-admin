@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,R as o}from"./chunks/framework.14f187fd.js";const h=JSON.parse('{"title":"框架更新","description":"","frontmatter":{},"headers":[],"relativePath":"guide/upgrade.md"}'),n={name:"guide/upgrade.md"},r=o("",8),p=[r];function i(s,_,c,d,l,u){return t(),a("div",null,p)}const g=e(n,[["render",i]]);export{h as __pageData,g as default};

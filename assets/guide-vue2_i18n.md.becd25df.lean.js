@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as l}from"./chunks/framework.14f187fd.js";const A=JSON.parse('{"title":"国际化","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/i18n.md"}'),p={name:"guide-vue2/i18n.md"},o=l("",24),e=[o];function t(c,r,D,F,y,i){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

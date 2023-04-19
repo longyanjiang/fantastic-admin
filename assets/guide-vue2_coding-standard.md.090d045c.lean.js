@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,R as n}from"./chunks/framework.14f187fd.js";const A=JSON.parse('{"title":"代码规范","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/coding-standard.md"}'),l={name:"guide-vue2/coding-standard.md"},t=n("",18),o=[t];function p(c,r,i,d,C,y){return a(),e("div",null,o)}const D=s(l,[["render",p]]);export{A as __pageData,D as default};

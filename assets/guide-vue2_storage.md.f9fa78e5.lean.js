@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,R as n}from"./chunks/framework.14f187fd.js";const i=JSON.parse('{"title":"私有 Storage 数据","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/storage.md"}'),l={name:"guide-vue2/storage.md"},e=n("",7),p=[e];function t(c,r,A,y,D,C){return a(),o("div",null,p)}const g=s(l,[["render",t]]);export{i as __pageData,g as default};

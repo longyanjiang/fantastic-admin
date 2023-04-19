@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,R as l}from"./chunks/framework.14f187fd.js";const x=JSON.parse('{"title":"Auth 鉴权","description":"","frontmatter":{},"headers":[],"relativePath":"components/auth.md"}'),o={name:"components/auth.md"},r=l("",5),s=[r];function n(h,d,i,c,_,f){return e(),a("div",null,s)}const y=t(o,[["render",n]]);export{x as __pageData,y as default};

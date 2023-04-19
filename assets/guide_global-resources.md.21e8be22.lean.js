@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as l}from"./chunks/framework.14f187fd.js";const d=JSON.parse('{"title":"全局资源","description":"","frontmatter":{},"headers":[],"relativePath":"guide/global-resources.md"}'),p={name:"guide/global-resources.md"},o=l("",25),e=[o];function c(t,r,C,D,i,y){return a(),n("div",null,e)}const A=s(p,[["render",c]]);export{d as __pageData,A as default};

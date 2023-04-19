@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,R as l}from"./chunks/framework.14f187fd.js";const C=JSON.parse('{"title":"CDN 支持","description":"","frontmatter":{},"headers":[],"relativePath":"guide-vue2/cdn.md"}'),o={name:"guide-vue2/cdn.md"},e=l("",12),p=[e];function t(c,r,i,F,y,d){return a(),n("div",null,p)}const h=s(o,[["render",t]]);export{C as __pageData,h as default};
